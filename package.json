@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DevJeh/RepoAzureDevops/issues"
   },
-  "homepage": "https://github.com/DevJeh/RepoAzureDevops#readme"
+  "homepage": "https://github.com/DevJeh/RepoAzureDevops#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
